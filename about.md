@@ -26,6 +26,7 @@ titles:
   # @end locale config
 key: page-about
 ---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeoKonig%2FBlog&count_bg=%2364AAFF&title_bg=%23CBC958&icon=creativecommons.svg&icon_color=%23E7E7E7&title=v&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [¿Quién es Guadalupe Ortíz de Landázuri?](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Blog/Guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
 
