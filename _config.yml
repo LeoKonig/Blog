@@ -35,7 +35,6 @@ timezone: America/Mexico_City # see https://en.wikipedia.org/wiki/List_of_tz_dat
 ##############################
 author:
   type      : organization # "person" (default), "organization"
-  name      : # 
   url       : 
   avatar    : /imagenes/logo.png # path or url of avatar image (square)
   bio       : Somos 
